@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: This is test
 categories:
@@ -6,3 +6,7 @@ categories:
 ---
 
 # This is txt
+
+一度日本語を書いてからがいいかもしれない
+
+これならきっと大丈夫？
